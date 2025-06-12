@@ -4,7 +4,7 @@
 
   inputs = {
     # --- BASE DEPENDENCIES ---
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:nixos/nixpkgs/f02fddb8acef29a8b32f10a335d44828d7825b78";
     flake-parts.url = "github:hercules-ci/flake-parts";
     flake-parts-builder.url = "github:tsandrini/flake-parts-builder";
 
